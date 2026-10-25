@@ -1,0 +1,157 @@
+{
+  "scope": "EVM / Solidity case studies only",
+  "projects_total": 15,
+  "cases_total": 40,
+  "projects": [
+    {
+      "slug": "2026-07-metric-omm",
+      "name": "Metric OMM",
+      "date": "Sep 2026",
+      "platform": "EVM / Solidity",
+      "category": "Oracle-based DEX / AMM",
+      "source": "https://audits.sherlock.xyz/contests/1279",
+      "source_platform": "Sherlock",
+      "case_count": 5
+    },
+    {
+      "slug": "2026-05-olas",
+      "name": "Olas",
+      "date": "May 2026",
+      "platform": "EVM / Solidity",
+      "category": "Oracle / Protocol-owned Liquidity",
+      "source": "https://code4rena.com/reports/2026-01-olas",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-04-sukukfi",
+      "name": "SukukFi",
+      "date": "Apr 2026",
+      "platform": "EVM / Solidity",
+      "category": "Async Vault / ERC-7575",
+      "source": "https://code4rena.com/reports/2025-11-sukukfi",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-04-intuition",
+      "name": "Intuition",
+      "date": "Apr 2026",
+      "platform": "EVM / Solidity",
+      "category": "Account Abstraction / Emissions",
+      "source": "https://code4rena.com/reports/2026-03-intuition",
+      "source_platform": "Code4rena",
+      "case_count": 2
+    },
+    {
+      "slug": "2026-03-recall",
+      "name": "Recall",
+      "date": "Mar 2026",
+      "platform": "EVM / Solidity",
+      "category": "Cross-chain / IPC (Solidity)",
+      "source": "https://code4rena.com/reports/2025-02-recall",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-03-panoptic-next-core",
+      "name": "Panoptic: Next Core",
+      "date": "Mar 2026",
+      "platform": "EVM / Solidity",
+      "category": "Options / Lending",
+      "source": "https://code4rena.com/reports/2025-12-panoptic-next-core",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-02-gte-clob",
+      "name": "GTE Spot CLOB and Router",
+      "date": "Feb 2026",
+      "platform": "EVM / Solidity",
+      "category": "Spot DEX / Order Book",
+      "source": "https://code4rena.com/reports/2025-07-gte-spot-clob-and-router",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-02-garden",
+      "name": "Garden",
+      "date": "Feb 2026",
+      "platform": "EVM / Solidity",
+      "category": "HTLC / Bridge (Solidity finding)",
+      "source": "https://code4rena.com/reports/2025-11-garden",
+      "source_platform": "Code4rena",
+      "case_count": 1
+    },
+    {
+      "slug": "2026-02-brix-money",
+      "name": "Brix Money",
+      "date": "Feb 2026",
+      "platform": "EVM / Solidity",
+      "category": "Cross-chain Staking / Vault",
+      "source": "https://code4rena.com/reports/2025-11-brix-money",
+      "source_platform": "Code4rena",
+      "case_count": 3
+    },
+    {
+      "slug": "2026-01-fluid-dex-v2",
+      "name": "Fluid DEX v2",
+      "date": "Jan-Feb 2026",
+      "platform": "EVM / Solidity",
+      "category": "DEX / Lending",
+      "source": "https://audits.sherlock.xyz/contests/1225",
+      "source_platform": "Sherlock",
+      "case_count": 1
+    },
+    {
+      "slug": "2025-12-monolith-stablecoin",
+      "name": "Monolith Stablecoin Factory",
+      "date": "Dec 2025",
+      "platform": "EVM / Solidity",
+      "category": "Stablecoin / Lending",
+      "source": "https://audits.sherlock.xyz/contests/1212",
+      "source_platform": "Sherlock",
+      "case_count": 4
+    },
+    {
+      "slug": "2025-11-stnxm-easedefi",
+      "name": "stNXM by EaseDeFi",
+      "date": "Nov 2025",
+      "platform": "EVM / Solidity",
+      "category": "Liquid Staking / Oracle",
+      "source": "https://audits.sherlock.xyz/contests/1203",
+      "source_platform": "Sherlock",
+      "case_count": 1
+    },
+    {
+      "slug": "2025-11-inverse-junior-tranche",
+      "name": "Inverse Finance - Junior Tranche",
+      "date": "Nov 2025",
+      "platform": "EVM / Solidity",
+      "category": "Lending / ERC-4626",
+      "source": "https://audits.sherlock.xyz/contests/1202",
+      "source_platform": "Sherlock",
+      "case_count": 2
+    },
+    {
+      "slug": "2025-11-centrifuge-v3-1",
+      "name": "Centrifuge Protocol V3.1",
+      "date": "Oct-Nov 2025",
+      "platform": "EVM / Solidity",
+      "category": "RWA / Cross-chain",
+      "source": "https://audits.sherlock.xyz/contests/1028",
+      "source_platform": "Sherlock",
+      "case_count": 3
+    },
+    {
+      "slug": "2025-10-index-fun-order-book",
+      "name": "Index Fun Order Book",
+      "date": "Oct 2025",
+      "platform": "EVM / Solidity",
+      "category": "Order Book / Prediction Markets",
+      "source": "https://audits.sherlock.xyz/contests/1197",
+      "source_platform": "Sherlock",
+      "case_count": 3
+    }
+  ]
+}
